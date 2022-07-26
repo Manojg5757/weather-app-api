@@ -1,0 +1,54 @@
+body{
+  background: url("./images/thunderstorm-3440450.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.search{
+  margin-top: 10px;
+  width: 45%;
+  height: 50px;
+  border-radius: 40px;
+  padding-left: 40px;
+  border: 3px solid rgb(216, 60, 60);
+ 
+}
+
+.form{
+  text-align: center;
+}
+
+.information{
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.greet{
+  text-align: center;
+  color: bisque;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.details{
+  color: white;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 180px;
+  font-size: xx-large;
+}
+
+.name{
+
+}
+
+.temp{
+  color: antiquewhite;
+}
+
+.main{
+  color: rgb(24, 196, 254);
+}
