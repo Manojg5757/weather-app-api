@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-api/static/css/main.593febc7.css",
+    "main.js": "/weather-app-api/static/js/main.e20a5466.js",
+    "static/media/thunderstorm-3440450.jpg": "/weather-app-api/static/media/thunderstorm-3440450.0c325c09ad18f9ffd488.jpg",
+    "index.html": "/weather-app-api/index.html",
+    "main.593febc7.css.map": "/weather-app-api/static/css/main.593febc7.css.map",
+    "main.e20a5466.js.map": "/weather-app-api/static/js/main.e20a5466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593febc7.css",
+    "static/js/main.e20a5466.js"
+  ]
+}
